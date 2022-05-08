@@ -1,0 +1,15 @@
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio18\bin\Debug\net6.0\exercicio18.exe
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio18\bin\Debug\net6.0\exercicio18.deps.json
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio18\bin\Debug\net6.0\exercicio18.runtimeconfig.json
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio18\bin\Debug\net6.0\exercicio18.dll
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio18\bin\Debug\net6.0\exercicio18.pdb
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio18\obj\Debug\net6.0\exercicio18.csproj.AssemblyReference.cache
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio18\obj\Debug\net6.0\exercicio18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio18\obj\Debug\net6.0\exercicio18.AssemblyInfoInputs.cache
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio18\obj\Debug\net6.0\exercicio18.AssemblyInfo.cs
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio18\obj\Debug\net6.0\exercicio18.csproj.CoreCompileInputs.cache
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio18\obj\Debug\net6.0\exercicio18.dll
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio18\obj\Debug\net6.0\refint\exercicio18.dll
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio18\obj\Debug\net6.0\exercicio18.pdb
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio18\obj\Debug\net6.0\exercicio18.genruntimeconfig.cache
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio18\obj\Debug\net6.0\ref\exercicio18.dll
