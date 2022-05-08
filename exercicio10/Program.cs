@@ -30,6 +30,8 @@ alturaAtleta1 = double.Parse(Console.ReadLine());
 Console.Write("Altura do atleta 2: ");
 alturaAtleta2 = double.Parse(Console.ReadLine());
 
+// testa as condições dos atletas usando o operador &&
+
 if (idadeAtleta1 < idadeAtleta2 && alturaAtleta1 > alturaAtleta2)
 {
     Console.WriteLine("O atleta 1 é o mais novo e o mais alto.");
