@@ -1,0 +1,15 @@
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio20\bin\Debug\net6.0\exercicio20.exe
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio20\bin\Debug\net6.0\exercicio20.deps.json
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio20\bin\Debug\net6.0\exercicio20.runtimeconfig.json
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio20\bin\Debug\net6.0\exercicio20.dll
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio20\bin\Debug\net6.0\exercicio20.pdb
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio20\obj\Debug\net6.0\exercicio20.csproj.AssemblyReference.cache
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio20\obj\Debug\net6.0\exercicio20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio20\obj\Debug\net6.0\exercicio20.AssemblyInfoInputs.cache
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio20\obj\Debug\net6.0\exercicio20.AssemblyInfo.cs
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio20\obj\Debug\net6.0\exercicio20.csproj.CoreCompileInputs.cache
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio20\obj\Debug\net6.0\exercicio20.dll
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio20\obj\Debug\net6.0\refint\exercicio20.dll
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio20\obj\Debug\net6.0\exercicio20.pdb
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio20\obj\Debug\net6.0\exercicio20.genruntimeconfig.cache
+C:\Users\thais-almeida\Documents\workspace\exerciciosPratica2\exerciciosPraticas2\exercicio20\obj\Debug\net6.0\ref\exercicio20.dll
